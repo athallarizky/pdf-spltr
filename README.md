@@ -75,6 +75,8 @@ python -m pdf_splitter report.pdf 75 --no-progress
 
 ## What you get
 
+<img width="1104" height="581" alt="image" src="https://github.com/user-attachments/assets/d736b4e8-fe7d-4c95-8145-4237ac25efca" />
+
 Your files get named automatically:
 
 ```
